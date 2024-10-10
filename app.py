@@ -599,7 +599,7 @@ if __name__ == "__main__":
         st.rerun()
 
     text = """
-    ### Save this page in your bookmarks. Check here again the in a few days. We will have more for you.
+    ### Save this page in your bookmarks. Check here again **next week**. We will have more for you.
     
     """
     
