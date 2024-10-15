@@ -4,7 +4,7 @@ import time
 from numpy import around
 if st.secrets["runtime"]["STATUS"] == "Production":
     st.set_page_config(
-        page_title="The Social Contract from Scratch",
+        page_title="Cracks on Time",
         page_icon="✨",
         # layout="wide",
         initial_sidebar_state="collapsed"
