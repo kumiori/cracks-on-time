@@ -653,7 +653,7 @@ with pages:
 
         energy_globe_cracks(cryosphere_cracks)
         """
-            The plot provides a zero-order global perspective on cryosphere vulnerability. _See the marquee for approximate locations of ice fracture activity._
+            The plot provides an approximate estimate of energy concentration in ice, a zero-order global perspective on cryosphere vulnerability. _See the marquee for approximate locations of ice fracture activity._
         """
         marquee(cryosphere_cracks)
 
